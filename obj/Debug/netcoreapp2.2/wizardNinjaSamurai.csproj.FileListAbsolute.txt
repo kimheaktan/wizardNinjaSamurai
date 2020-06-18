@@ -1,0 +1,11 @@
+/Users/user/coding dojo/csharpNew/oop/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.csprojAssemblyReference.cache
+/Users/user/coding dojo/csharpNew/oop/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.csproj.CoreCompileInputs.cache
+/Users/user/coding dojo/csharpNew/oop/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.AssemblyInfoInputs.cache
+/Users/user/coding dojo/csharpNew/oop/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.AssemblyInfo.cs
+/Users/user/coding dojo/csharpNew/oop/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.deps.json
+/Users/user/coding dojo/csharpNew/oop/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.runtimeconfig.json
+/Users/user/coding dojo/csharpNew/oop/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.runtimeconfig.dev.json
+/Users/user/coding dojo/csharpNew/oop/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.dll
+/Users/user/coding dojo/csharpNew/oop/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.pdb
+/Users/user/coding dojo/csharpNew/oop/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.dll
+/Users/user/coding dojo/csharpNew/oop/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.pdb
